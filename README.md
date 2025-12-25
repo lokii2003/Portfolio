@@ -1,18 +1,14 @@
-# Portfólio
+# Portfolio
 
-> Pequena apresentação sobre mim, minhas skills e projetos em destaque
+> A short presentation about me, my skills, and my highlighted projects
 
 Site: [Github Pages](http://127.0.0.1:5500/index.html)
 
-## Interface
 
-**Desafio 9 da comunidade codelândia**
 
-## Tecnologias
-- Html
-- Css
-- Sass
-- javascript
-
-## Melhorias
-- Recriar portfólio usando React.js
+## Technolog
+- SQL
+- PowerBI
+- Python
+- Tensorflow
+- PyTorch

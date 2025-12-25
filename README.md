@@ -2,7 +2,7 @@
 
 > Pequena apresentação sobre mim, minhas skills e projetos em destaque
 
-Site: [Github Pages](https://github.com/lokii2003/Portfolio/)
+Site: [Github Pages](http://127.0.0.1:5500/index.html)
 
 ## Interface
 

@@ -1,1 +1,18 @@
-# Portfolio
+# Portfólio
+
+> Pequena apresentação sobre mim, minhas skills e projetos em destaque
+
+Site: [Github Pages](https://github.com/lokii2003/Portfolio/)
+
+## Interface
+
+**Desafio 9 da comunidade codelândia**
+
+## Tecnologias
+- Html
+- Css
+- Sass
+- javascript
+
+## Melhorias
+- Recriar portfólio usando React.js
